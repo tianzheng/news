@@ -6,7 +6,7 @@ public class Test {
 
 		
 		System.out.println("常凯华");
-		System.out.println("cc");
+		System.out.println("ccc");
 		System.out.println("Alex");
 
 		System.out.println("晋天正");
