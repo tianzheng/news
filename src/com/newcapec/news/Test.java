@@ -17,6 +17,9 @@ public class Test {
 		System.out.println("Newcapec");
 		System.out.println("新开普");
 		
+//		Starry的添加
+		System.out.println("Starry");
+		System.out.println("张星宇");
 		
 		
 	}
