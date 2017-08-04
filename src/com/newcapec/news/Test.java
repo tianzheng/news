@@ -6,10 +6,32 @@ package com.newcapec.news;
 public class Test {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		System.out.println("杨克发");
+=======
+		System.out.println("赵正义");
+
+
+		System.out.println("高增辉");
+
+
+
+
+		System.out.println("杨克发");
+
+
+
+
+		
+>>>>>>> ae04883921a95998ac307c9a2e742cd24c48670e
 		System.out.println("常凯华");
 		System.out.println("ccc");
 		System.out.println("Alex");
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> ae04883921a95998ac307c9a2e742cd24c48670e
 		System.out.println("晋天正");
 		System.out.println("开始项目吧");
 		System.out.println("你好");
@@ -22,7 +44,18 @@ public class Test {
 		System.out.println("新开普");
 		System.out.println("Starry");
 		System.out.println("张星宇");
+<<<<<<< HEAD
 		System.out.println("Alex");
+=======
+		
+
+		
+
+		System.out.println("Alex");
+
+
+
+>>>>>>> ae04883921a95998ac307c9a2e742cd24c48670e
 		System.out.println("Alex");
 		System.out.println("suyuan");
 		System.out.println("杨克发");
@@ -30,6 +63,7 @@ public class Test {
 		System.out.println("张星宇");
 		System.out.println("Alex");
 		System.out.println("王东方");
+
 	}
 	
 
