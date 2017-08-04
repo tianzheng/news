@@ -7,7 +7,9 @@ public class Test {
 	public static void main(String[] args) {
 
 
-		System.out.println("KFYoung");
+
+		System.out.println("杨克发");
+
 
 	}
 	
