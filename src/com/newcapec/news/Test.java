@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("项目");
 		System.out.println("开始项目！！");
 		
+		System.out.println("(*^__^*) 嘻嘻……");
 	}
 
 }
