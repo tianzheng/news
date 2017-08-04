@@ -44,7 +44,7 @@ public class Test {
 		
 		System.out.println("Alex");
 
-		System.out.println("克发Green");
+
 		System.out.println("Alex");
 		System.out.println("suyuan");
 		
