@@ -27,6 +27,8 @@ public class Test {
 		System.out.println("张星宇");
 		
 		System.out.println("Alex");
+		System.out.println("Alex");
+		System.out.println("suyuan");
 	}
 	
 
