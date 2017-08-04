@@ -19,7 +19,7 @@ public class Test {
 		System.out.println("新开普");
 		
 		
-		
+		System.out.println("Alex");
 	}
 	
 
