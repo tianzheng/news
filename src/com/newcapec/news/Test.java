@@ -24,13 +24,13 @@ public class Test {
 
 		System.out.println("晋天正");
 		System.out.println("开始项目吧");
-<<<<<<< HEAD
+
 
 		System.out.println("xiong,hahaha");
 
 		System.out.println("(*^__^*) 嘻嘻……");
 
-=======
+
 		System.out.println("你好");
 		
 		System.out.println("(*^__^*) 嘻嘻……");
@@ -63,7 +63,6 @@ public class Test {
 		System.out.println("张星宇");
 		System.out.println("Alex");
 		System.out.println("王东方");
->>>>>>> a04f2388d72eb72e124b1d67e04e4214f79f974c
 	}
 	
 
