@@ -1,3 +1,4 @@
+
 package com.newcapec.news;
 
 
@@ -50,8 +51,13 @@ public class Test {
 		System.out.println("suyuan");
 		
 		System.out.println("杨克发");
-
+		
+		System.out.println("Starry");
+		System.out.println("张星宇");
+		System.out.println("Alex");
+		System.out.println("王东方");
 	}
 	
 
 }
+
