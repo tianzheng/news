@@ -9,7 +9,7 @@ public class Test {
 		System.out.println("瞬间爆炸....");
 		System.out.println("C:\\Users\\Administrator\\git\\news");
 		System.out.println("=====");
-		System.out.println("王东方O(∩_∩)O哈哈~");
+		System.out.println("王东方");
 	}
 	
 
