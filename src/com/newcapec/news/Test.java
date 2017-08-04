@@ -4,14 +4,14 @@ public class Test {
 
 	public static void main(String[] args) {
 
-<<<<<<< HEAD
+
 		System.out.println("高增辉");
-=======
+
 		
 		System.out.println("常凯华");
 
 		System.out.println("Alex");
->>>>>>> e0b3aaaab529f26e7b18e145a1e55996f9c35262
+
 
 		System.out.println("晋天正");
 		System.out.println("开始项目吧");
@@ -35,12 +35,11 @@ public class Test {
 		System.out.println("Starry");
 		System.out.println("张星宇");
 		
-<<<<<<< HEAD
+
 		
 
-=======
 		System.out.println("Alex");
->>>>>>> e0b3aaaab529f26e7b18e145a1e55996f9c35262
+
 	}
 	
 
