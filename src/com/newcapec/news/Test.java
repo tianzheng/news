@@ -10,6 +10,14 @@ public class Test {
 		System.out.println("C:\\Users\\Administrator\\git\\news");
 		System.out.println("=====");
 		System.out.println("王东方");
+		System.out.println("starry的添加"
+				+ "添加"
+				+ "删除");
+		System.out.println("=====");
+		System.out.println("Newcapec");
+		System.out.println("新开普");
+		
+		
 	}
 	
 
