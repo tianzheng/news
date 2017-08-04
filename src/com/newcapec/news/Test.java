@@ -28,6 +28,13 @@ public class Test {
 
 		System.out.println("晋天正");
 		System.out.println("开始项目吧");
+
+
+		System.out.println("xiong,hahaha");
+
+		System.out.println("(*^__^*) 嘻嘻……");
+
+
 		System.out.println("你好");
 		System.out.println("(*^__^*) 嘻嘻……");
 		System.out.println("starry的添加"+ "添加"+ "删除");
