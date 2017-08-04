@@ -72,6 +72,7 @@ public class Test {
 		System.out.println("张星宇");
 		System.out.println("Alex");
 		System.out.println("王东方");
+		System.out.println("git冲突");
 
 	}
 	
