@@ -8,14 +8,12 @@ public class Test {
 		System.out.println("你好");
 		
 		System.out.println("(*^__^*) 嘻嘻……");
-<<<<<<< HEAD
 		
 		System.out.println("starry的添加"
 				+ "添加"
 				+ "删除");
-=======
 		System.out.println("=====");
->>>>>>> 1f73d7cd6130adb84835c7f8be301e00a13a9c59
+		System.out.println("周正123");
 	}
 	
 
