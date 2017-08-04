@@ -45,6 +45,11 @@ public class Test {
 		System.out.println("Alex");
 
 		System.out.println("克发Green");
+		System.out.println("Alex");
+		System.out.println("suyuan");
+		
+		System.out.println("杨克发");
+
 	}
 	
 
